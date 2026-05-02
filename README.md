@@ -66,3 +66,9 @@ CSVs have columns: `Hotel id, City, Room id, Price, Room Type, Pricing Policy`. 
 - `PRICING_POLICIES.DEFAULT_POLICIES` ? the policies included in aggregate statistics.
 - `USER_PROFILES.USER_PROFILES` ? maps budget tier names to max nightly price in euros.
 - `FEATURES.TYPE` ? the only active room feature; values are `single/double/triple/suite`.
+
+## Citations
+
+E. Streviniotis, A. Georgara, F. Bistaffa, and G. Chalkiadakis. Fairplay: A multi-sided fair dynamic pricing policy for hotels. *Proceedings of the AAAI Conference on Artificial Intelligence*, 38(20):22368–22376, Mar. 2024.
+
+A. Georgara, E. Streviniotis, F. Bistaffa, J. A. Rodriguez-Aguilar, S. D. Ramchurn, and G. Chalkiadakis. FairPlay+: A Certified-Fair Hotel Rooms Recommendations Framework. *Proceedings of the IASEAI Conference*.
